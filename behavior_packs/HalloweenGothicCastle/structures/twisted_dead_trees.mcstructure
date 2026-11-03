@@ -1,0 +1,24 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:structure": {
+    "description": {
+      "identifier": "halloween_gothic_castle:twisted_dead_trees",
+      "size": [10, 10, 10],
+      "structure_world_origin": [0, 0, 0],
+      "structure_block_world_origin": [0, 0, 0],
+      "exported_by": "Halloween Gothic Castle Addon"
+    },
+    "structure": {
+      "block_indices": [
+        // Block data will be added here
+      ],
+      "palette": {
+        "default": {
+          "block_palette": [
+            // Block palette will be added here
+          ]
+        }
+      }
+    }
+  }
+}
